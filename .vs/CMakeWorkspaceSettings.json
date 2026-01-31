@@ -1,3 +1,4 @@
 {
-  "enableCMake": false
+  "enableCMake": true
+  
 }
