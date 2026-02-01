@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\deps",
+    "\\deps\\libapps",
+    "\\deps\\libapps\\hterm"
   ],
-  "PreviewInSolutionExplorer": true
+  "PreviewInSolutionExplorer": false
 }
