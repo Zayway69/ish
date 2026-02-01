@@ -13,8 +13,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cde3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -23,14 +31,10 @@
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Microsoft\\VisualStudio\\18.0_a1de4111\\settings.json",
               "ToolTip": "C:\\Users\\zayle\\AppData\\Local\\Microsoft\\VisualStudio\\18.0_a1de4111\\settings.json",
               "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Microsoft\\VisualStudio\\18.0_a1de4111\\settings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-02-01T18:14:54.323Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cde3}"
             },
             {
               "$type": "Bookmark",
@@ -43,10 +47,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
             },
             {
               "$type": "Bookmark",
