@@ -2305,6 +2305,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = BB0B86D52587009D00208600 /* iOS.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = 6BRGJGSF84;
 			};
 			name = "Debug-ApplePleaseFixFB19282108";
 		};
@@ -2312,6 +2313,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = BB0B86D52587009D00208600 /* iOS.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = 6BRGJGSF84;
 			};
 			name = Release;
 		};
@@ -2589,6 +2591,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = BB0B86D52587009D00208600 /* iOS.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = 6BRGJGSF84;
 			};
 			name = DebugLinux;
 		};
@@ -2817,6 +2820,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = BB0B86D52587009D00208600 /* iOS.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = 6BRGJGSF84;
 			};
 			name = ReleaseLinux;
 		};

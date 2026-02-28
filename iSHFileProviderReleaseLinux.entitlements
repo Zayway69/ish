@@ -11,6 +11,8 @@
 		<string>$(PRODUCT_APP_GROUP_IDENTIFIER)</string>
 	</array>
 	<key>keychain-access-groups</key>
-	<array/>
+	<array>
+		<string>$(AppIdentifierPrefix)$(PRODUCT_BUNDLE_IDENTIFIER).FileProvider</string>
+	</array>
 </dict>
 </plist>
