@@ -2606,6 +2606,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = BB0B86D52587009D00208600 /* iOS.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = app/FileProvider/iSHFileProvider.entitlements;
 				CODE_SIGN_ENTITLEMENTS = "iSHFileProviderDebug-ApplePleaseFixFB19282108.entitlements";
 				DEVELOPMENT_TEAM = 6BRGJGSF84;
 				INFOPLIST_FILE = app/FileProvider/Info.plist;
