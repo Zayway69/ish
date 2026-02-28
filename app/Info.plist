@@ -56,6 +56,8 @@
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>location</string>
+		<string>processing</string>
+		<string>nearby-interaction</string>
 	</array>
 	<key>UIFileSharingEnabled</key>
 	<true/>
